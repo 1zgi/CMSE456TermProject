@@ -177,6 +177,7 @@ cython_debug/
 .pypirc
 
 # WALA project specific files to exclude
+LICENSE
 demo.py
 MULTI_MACHINE_SETUP.md
 network_test.py
